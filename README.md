@@ -6,6 +6,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
@@ -43,9 +46,18 @@
 ## Greedy
 |  |
 | ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |

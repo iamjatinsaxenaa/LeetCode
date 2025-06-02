@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -51,6 +52,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0135-candy) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)

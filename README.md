@@ -18,6 +18,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0135-candy) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Stack
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -16,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |

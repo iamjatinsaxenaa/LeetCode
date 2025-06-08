@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -137,4 +138,12 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

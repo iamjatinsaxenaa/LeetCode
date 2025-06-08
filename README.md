@@ -113,6 +113,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |

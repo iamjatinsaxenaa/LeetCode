@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0002-add-two-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0135-candy) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |

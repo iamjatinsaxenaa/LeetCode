@@ -9,6 +9,7 @@
 | [0135-candy](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |

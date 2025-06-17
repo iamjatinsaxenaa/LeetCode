@@ -44,6 +44,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -162,4 +163,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->

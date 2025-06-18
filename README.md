@@ -11,6 +11,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -68,6 +70,7 @@
 | [0135-candy](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |

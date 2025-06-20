@@ -28,6 +28,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,6 +141,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |

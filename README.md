@@ -26,6 +26,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -56,6 +57,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -77,6 +79,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
@@ -112,6 +115,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Depth-First Search
@@ -138,6 +142,7 @@
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |

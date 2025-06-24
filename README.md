@@ -10,6 +10,7 @@
 | [0945-snakes-and-ladders](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iamjatinsaxenaa/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
